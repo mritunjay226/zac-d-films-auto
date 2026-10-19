@@ -1,0 +1,6 @@
+{
+  "name": "IIZackStudio — 3D Cutaway AI Studio",
+  "description": "Generate Zack D. Films-style 9:16 3D anatomical cutaway explainer shorts with deterministic @remotion/three primitives, Z-Anatomy sub-meshes, and Web Audio SFX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

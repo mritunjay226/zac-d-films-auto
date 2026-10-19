@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for upgrading IIZackStudio with 4 distinct 3D scenes per video (Exterior -> Tissue -> Cellular -> Brain), organic subsurface transmission and procedural cellular micro-bump PBR shaders, instanced 3D particle systems (red blood cells, venom droplets, neural sparks), and Zack D. Films whip-pan zoom scene transitions.",
+  "updatedAt": "2026-10-19T22:27:47.150013468Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
